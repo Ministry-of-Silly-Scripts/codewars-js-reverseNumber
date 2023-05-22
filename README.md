@@ -1,8 +1,8 @@
-# Vowel Count kata (Jaguars)
+#  Reverse a number in any base
 
-Vowel Count kata performed by the Jaguars cohort
+Training for the TDD, part of Jaguars training at IBM
 
-[Vowel Count on CodeWars](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
+[Reverse a number in any base on CodeWars](https://www.codewars.com/kata/6469e4c905eaefffd44b6504)
 
 ## Prerequisites
 
