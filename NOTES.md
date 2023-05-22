@@ -58,5 +58,8 @@ TODO:
 - it should have a function that will take a number and a base and will return this number in the base specified ✅
     - example n = 12; b = 2 -> "1100"
     - example n = 45; b = 30 -> "1F"
-
 - it should deal with unary case, return the number of `1` specified in `n` when `b` = 1 ✅
+- the main function should used the previous function to convert the input's number and and return it reversed 🚧
+    - example n = 12; b = 2 -> "0011"
+    - example n = 45; b = 30 -> "F1"
+    - example n = 5; b = 1 -> "11111"
