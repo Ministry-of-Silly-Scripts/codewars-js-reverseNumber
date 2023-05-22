@@ -35,7 +35,7 @@ Edge case: Base-1 is also used in this kata to represent the unary numeral syste
     -`n`: non-negative integer
     -`b`: arbitrary base
 - output:
-    - integer: input number(`n`) reversed
+    - string: input number(`n`) reversed
 - edge case:
     - Base-1: 
         - `3` -> `111`
@@ -48,5 +48,15 @@ Edge case: Base-1 is also used in this kata to represent the unary numeral syste
 TODO:
 
 # Pomodoro 1 🍅:
-- initial setup
-- domain discussion
+- initial setup ✅
+- domain discussion ✅
+- it should have a function that will take a number and a base and will return this number in the base specified 🚧
+    - example n = 12; b = 2 -> "1100"
+    - example n = 45; b = 30 -> "451"
+
+# Pomodoro 2 🍅:
+- it should have a function that will take a number and a base and will return this number in the base specified ✅
+    - example n = 12; b = 2 -> "1100"
+    - example n = 45; b = 30 -> "1F"
+
+- it should deal with unary case, return the number of `1` specified in `n` when `b` = 1 ✅
