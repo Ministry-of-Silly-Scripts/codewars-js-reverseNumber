@@ -43,7 +43,8 @@ Edge case: Base-1 is also used in this kata to represent the unary numeral syste
 
 
 # **Label**  
-✅ done 🚧 WIP ❌ ERROR
+✅ done 🚧 WIP ❌ ERROR 🐞 BUG  
+
 
 TODO:
 
@@ -68,5 +69,4 @@ TODO:
 - fix domain output: it should be an int of the inverted number ✅
 - fix all the tests to comply with the domain change. ✅
 - fix the main function to comply with the fix in the domain ✅
-
-- BUG to fix: Inputs in kata are BigInt: bases > 36 does not work!
+- BUG to fix: Inputs in kata are BigInt: bases > 36 does not work! 🐞
