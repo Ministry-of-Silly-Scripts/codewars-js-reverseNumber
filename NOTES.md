@@ -66,5 +66,7 @@ TODO:
 
 # Pomodoro 3 🍅:
 - fix domain output: it should be an int of the inverted number ✅
-- fix all the tests to comply with the domain change.
-- fix the main function to comply with the fix in the domain
+- fix all the tests to comply with the domain change. ✅
+- fix the main function to comply with the fix in the domain ✅
+
+- BUG to fix: Inputs in kata are BigInt: bases > 36 does not work!
