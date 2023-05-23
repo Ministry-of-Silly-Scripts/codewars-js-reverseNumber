@@ -6,7 +6,11 @@ const reverseNumber = (n, b) => {
     outString += numberBaseChanged[i];
   }
 
-  return outString;
+  if (b == 1) {
+    return n;
+  }
+
+  return parseInt(outString, b);
 };
 
 const changeNumberBase = (n, b) => {
